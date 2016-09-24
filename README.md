@@ -14,7 +14,7 @@ This is a super simple demo on MapReduce for my Big Data presentation.
 
 You can perform calculations or do fun stuff by seeing your most tweeted words, for example.
 
-Based and adapted from this article:
+Based on and adapted from this article:
 http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
 
 @anazard
